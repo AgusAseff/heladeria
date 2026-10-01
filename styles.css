@@ -1,0 +1,20 @@
+/* Variables de color */
+
+:root {
+  --color-principal: #5c3a21;
+  --color-fondo: #f5ebe0;
+  --color-texto: #2b1d14;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: var(--color-fondo);
+  color: var(--color-texto);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
