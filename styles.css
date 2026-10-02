@@ -80,11 +80,6 @@ section {
   padding: 2rem 1rem;
 }
 
-section h2 {
-  text-align: center;
-  color: var(--color-principal);
-}
-
 form {
   display: flex;
   margin: 0 auto;
