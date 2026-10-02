@@ -33,6 +33,10 @@ header {
   font-weight: bold;
   font-size: 1.25rem;
 }
+.logo img {
+  height: 3rem;
+  width: auto;
+}
 
 nav {
   display: flex;
